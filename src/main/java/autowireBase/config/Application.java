@@ -31,7 +31,7 @@ public class Application {
 		pl.setId(10);
 		pl.setName("melody");
 		
-		
+		pl.setSongs(s);
 		System.out.println("Song : " + pl.toString());
 	}
 }
